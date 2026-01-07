@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "finfeed-news",
+    "finfeed": "finfeed-news"
+  },
+  "targets": {},
+  "etags": {}
+}
